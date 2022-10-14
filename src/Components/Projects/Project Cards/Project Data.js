@@ -20,7 +20,7 @@ export const ProjectData = [
     id: 2,
     img: crocs,
     heading: "Crocs Club",
-    link: "https://tourism.gov.pk/",
+    link: "https://cardanocrocsclub.com/",
     beforeLink:
       "This website is developed by react js. This project is the clone of ",
     afterLink:
