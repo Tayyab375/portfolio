@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+  line-height: 1.35;
+}
+
+body {
+  font-size: 1rem;
+  background: rgb(34 37 44);
+}
+
+@media screen and (max-width: 1000px) {
+  body {
+    font-size: 14px;
+  }
+}
+
+.btn12 {
+  background: red;
+}

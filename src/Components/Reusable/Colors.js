@@ -1,0 +1,9 @@
+export const drakNavColor = "rgb(29, 33, 39)";
+export const white = "white";
+export const black = "black";
+export const headingColor = "rgb(51, 229, 217)";
+export const hoverColorNav = "rgb(40, 84, 59)";
+export const drakBgColor = "rgb(34, 37, 44)";
+export const lightBgColor = "rgb(48, 55, 65)";
+export const linkColor = "rgb(0, 123, 255)";
+export const linkHoverColor = "rgb(0, 86, 179)";
