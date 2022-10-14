@@ -22,7 +22,7 @@ const Bar = (props) => {
 
 const ProfessionalSkills = () => {
   return (
-    <SkillParentDiv data-aos="fade-left" data-aos-duration="1000">
+    <SkillParentDiv>
       <Bar info={"react js"} percentage={"60%"} />
       <Bar info={"javascript"} percentage={"70%"} />
       <Bar info={"html 5"} percentage={"90%"} />

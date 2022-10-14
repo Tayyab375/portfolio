@@ -8,6 +8,7 @@ export const SkillParentDiv = styled.div`
   display: flex;
   flex-wrap: wrap;
   gap: 6%;
+  width: 100%;
 
   @media screen and (max-width: 600px) {
     padding: 6% 6% 4% 6%;

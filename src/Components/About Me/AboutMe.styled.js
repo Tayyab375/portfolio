@@ -13,6 +13,7 @@ export const AboutParentDiv = styled.div`
   display: flex;
   align-items: flex-start;
   gap: 7%;
+  overflow: hidden;
 
   @media screen and (max-width: 710px) {
     gap: 5.5%;
