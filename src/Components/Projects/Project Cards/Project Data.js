@@ -11,7 +11,7 @@ export const ProjectData = [
     beforeLink:
       "This website is developed by react js. This project is the clone of ",
     afterLink:
-      ". Some components are cloned from other websites. Multipage website and completly responsive.",
+      ". Some components are cloned from other websites. Multipage website and compeletly responsive.",
     linkName: "PTDC",
     hostedLink: "https://pakistans-tour.netlify.app/",
     githubLink: "https://github.com/Tayyab375/Pakistan-Tour",
@@ -24,7 +24,7 @@ export const ProjectData = [
     beforeLink:
       "This website is developed by react js. This project is the clone of ",
     afterLink:
-      ". Single-page website and completly responsive. This website have awesome animation.",
+      ". Single-page website and compeletly responsive. This website has awesome animation.",
     linkName: "Crocs Club",
     hostedLink: "https://og-crocs.netlify.app/",
     githubLink: "https://github.com/Tayyab375/og-crocs",
